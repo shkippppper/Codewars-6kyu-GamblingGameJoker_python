@@ -37,4 +37,4 @@ some tickets may have leading zeros
 some joker numbers may have leading zeros
 leading zeros still count towards the total
 
-https://www.codewars.com/kata/621e323a98afab001628d9a0/train/python
+https://www.codewars.com/kata/621e323a98afab001628d9a0/train/python  
